@@ -4,7 +4,6 @@ void main() {
   runApp(WeatherHomeworkApp());
 }
 
-
 class WeatherHomeworkApp extends StatelessWidget {
   const WeatherHomeworkApp({super.key});
 
