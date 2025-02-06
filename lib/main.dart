@@ -16,9 +16,6 @@ class WeatherHomeworkApp extends StatelessWidget {
   }
 }
 
-
-
-
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
